@@ -1,0 +1,9 @@
+name: Challange
+version: '${project.version}'
+main: dev.tiridev.challange.Challange
+api-version: 1.19
+authors: [ Tiri2 ]
+website: tiri-dev.de
+commands:
+  start:
+    description: start the challange

@@ -1,0 +1,9 @@
+dev\tiridev\challange\timer\Timer$1.class
+dev\tiridev\challange\timer\Timer.class
+dev\tiridev\challange\Commands\StartCommand.class
+dev\tiridev\challange\Listeners\RandomDamage.class
+dev\tiridev\challange\Challange.class
+dev\tiridev\challange\Listeners\EnitiyDeathEvent.class
+dev\tiridev\challange\Listeners\PlayerDeathEvent.class
+dev\tiridev\challange\Listeners\RandomDamage$1.class
+dev\tiridev\challange\Listeners\PlayerConnectListener.class
